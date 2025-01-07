@@ -1,5 +1,4 @@
-# Uncertainty-Aware Regularization for Image-to-Image Translation  
-**WACV 2025**
+# Uncertainty-Aware Regularization for Image-to-Image Translation - WACV 2025
 
 ## Abstract
 
@@ -13,7 +12,7 @@ We validate our approach using two medical imaging datasets, showcasing its effe
 
 ## Block Diagram
 
-![Block Diagram](blockdiag%20(1).pdf)
+![Block Diagram](blockdiag%20(1).pdf)](https://github.com/user-attachments/files/18329416/blockdiag.1.pdf)
 
 **Figure**: Comparison between Probabilistic I2I translation, Non-Probabilistic I2I translation, and Uncertainty-Aware Regularization (ours). Residuals in our method are modeled as distributions, with parameters regularized for better uncertainty estimation and performance.
 
